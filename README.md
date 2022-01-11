@@ -6,7 +6,7 @@ Jax, the easiest way to write html code for your websites, anonymously, easily, 
 ## What is it ?
 Jax is an Updated version of Html.
 ***Example of Hello world in Jax:***
-```c
+```html
 !DOCTYPE $html;
 
 * Add a class to the body...
