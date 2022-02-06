@@ -21,7 +21,7 @@ The __Equivalent__ of the last Example in **HTML** is:
 <!DOCTYPE html>
 
 <!--Add a class to the body...-->
-<body class= "everything-centered">
+<body class="everything-centered">
     <div class="v-align">
         <h1>Hello, World!</h1>
     </div>
@@ -38,11 +38,10 @@ a very basic syntax, more secure, advanced, and multi-fuctional.
 
 
 ## How to use Jax in the Command Line ?
-First of all, you need to download Jax in your OS, then :
-+ f
+Coming soon...
 
 ## More info about Jax...
-+ Jax is written in C#, then it was re-written in JavaScript (Node) to be able 
++ Jax is written in C#, then it was re-written in JavaScript (Node) to be used in Browsers.
 
 # Some info:
 + Discord Server: [Click here](https://dsc.gg/brcode)
