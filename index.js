@@ -2,11 +2,11 @@ console.info(
     'Jax: v1.1 | Jax Engine was initialised.'
 )
 
-var tab = "	",
-    compiled = ``,
-    compiled_array = [],
-    style = '',
-    style_started = false;
+var tab = '\t'
+var compiled = ''
+var compiled_array = []
+var style = ''
+var style_started = !1;
 async function Jax(jax = '') {
     jax.split('\n').forEach((_, idx) => {
         var DOM = '',
