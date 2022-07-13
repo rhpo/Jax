@@ -29,6 +29,9 @@ The __Equivalent__ of the last Example in **HTML** is:
 
 ```
 
+## How does it work?
+![](https://media.discordapp.net/attachments/975505511782965339/994557961236123688/unknown.png?width=1016&height=663)
+
 ## Why Jax ?
 ***HTML*** was invented by [Tim Berners-Lee](https://fr.wikipedia.org/wiki/Tim_Berners-Lee) in **1993**, so it's made a long ago, 
 <br>
