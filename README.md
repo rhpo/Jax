@@ -45,16 +45,7 @@ Coming soon...
 
 ## More info about Jax...
 + Jax is written in C#, then it was re-written in JavaScript (Node) to be used in Browsers.
-
-# Some info:
-+ Discord Server: [Click here](https://dsc.gg/brcode)
-
-+ My Website: [Click here](https://ramey.ml/l?(s)ramey.ml)
-
-+ Project am working on: [Click here](https://rhpo.github.io/BrainCode/register)
-
-+ Email: me@ramey.ml
-
-+ Instagram: @ramyhadid
++ Jax isn't processed with a JIT (JustInTime) Compiler, it runs once and returns the compiled ``html``.
++ Jax is meant to be a programming language, then now it's a compiler to HTML!
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
