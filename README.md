@@ -1,5 +1,5 @@
 
-# ✨ Introducing Jax: Unveiling the Future of HTML Crafting! 🌐
+# ✨ Jax: Unveiling the Future of HTML Crafting! 🌐
 
 Dive into the realm of effortless web development with **Jax**! Say goodbye to the ordinary and embrace the extraordinary as you embark on a journey of coding magic.
 
